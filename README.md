@@ -1,6 +1,6 @@
 # DBI Zellenprojekt
 
-> Kurze Beschreibung des Projekts in ein bis zwei Sätzen. *(TODO)*
+SynLetProject
 
 ---
 
@@ -8,10 +8,10 @@
 
 | Name           | Rolle / Aufgabenbereich |
 |----------------|-------------------------|
-| Jan Auinger    | *(TODO)*                |
-| Nicolas Lehner | *(TODO)*                |
-| Benjamin HS    | *(TODO)*                |
-| Adrian Wagner  | *(TODO)*                |
+| Jan Auinger    | Meister                 |
+| Nicolas Lehner | Mitarbeiter             |
+| Benjamin HS    | Mitarbeiter             |
+| Adrian Wagner  | Mitarbeiter             |
 
 ---
 
