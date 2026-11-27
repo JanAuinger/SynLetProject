@@ -9,9 +9,9 @@ SynLetProject
 | Name           | Rolle / Aufgabenbereich |
 |----------------|-------------------------|
 | Jan Auinger    | Meister                 |
-| Nicolas Lehner | Mitarbeiter             |
-| Benjamin HS    | Mitarbeiter             |
-| Adrian Wagner  | Mitarbeiter             |
+| Nicolas Lehner | Kunden - Support        |
+| Benjamin HS    | Mütze.                  |
+| Adrian Wagner  | Scrum - Master          |
 
 ---
 
